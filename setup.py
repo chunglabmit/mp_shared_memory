@@ -11,7 +11,7 @@ setup(
     description="Multiprocessing shared memory",
     long_description=long_description,
     author="Kwanghun Chung Lab",
-    packages=["blockfs"],
+    packages=["mp_shared_memory"],
     url="https://github.com/chunglabmit/mp_shared_memory",
     license="MIT",
     classifiers=[
